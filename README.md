@@ -6,7 +6,7 @@ A governed operator‑tier fine‑tuning pipeline aligning a coder model to **Mo
 ## Hypothesis Framework
 
 ### **1. Research Hypothesis (H₁)**  
-A governed operator‑tier fine‑tuning pipeline—combining Mojo‑specific syntax alignment, MLIR dialect constraints, and a synthetic kernel curriculum—**significantly improves deterministic kernel generation**, producing code that reliably passes:
+A governed operator‑tier fine‑tuning pipeline (combining Mojo‑specific syntax alignment, MLIR dialect constraints, and a synthetic kernel curriculum) **significantly improves deterministic kernel generation**, producing code that reliably passes:
 
 1. **AST parsing**,  
 2. **MLIR lowering (`--emit mlir`)**, and  
