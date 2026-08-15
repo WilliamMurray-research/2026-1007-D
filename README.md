@@ -1,5 +1,27 @@
+`2026-1013-D-read-001.md`  
+
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-1013-D-read-001`  
 # Mojo Operator Alignment & Kernel Synthesis  
-A governed operator‑tier fine‑tuning pipeline aligning a coder model to Mojo syntax, memory‑ownership semantics, and MLIR‑lowerable GPU/SIMD kernel patterns, evaluated through a deterministic three‑stage compiler harness.
+## A governed operator‑tier fine‑tuning pipeline aligning a coder model to Mojo syntax, memory‑ownership semantics, and MLIR‑lowerable GPU/SIMD kernel patterns, evaluated through a deterministic three‑stage compiler harness.  
+### Project    
+
+**Type**: read   
+**Classification**: D  
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: A governed investigation into operator‑tier fine‑tuning for Mojo, aligning a coder model to Mojo syntax, memory‑ownership semantics, and MLIR‑lowerable GPU/SIMD kernel patterns. Explores deterministic kernel generation through a structured compiler‑aligned curriculum, evaluated via a three‑stage harness (AST parsing → MLIR lowering → hardware execution). Serves as a controlled research module for understanding how compiler‑constrained training affects correctness, lowering fidelity, and hardware‑level performance.  
+
+**Primary Model / Scheme**: Mojo Operator‑Alignment Scheme v0.1 — defines operator‑tier syntax constraints, MLIR dialect boundaries, synthetic kernel‑curriculum structure, and deterministic evaluation rules across AST, MLIR, and hardware layers. Establishes the formal substrate for analysing alignment effects on kernel correctness, vectorization behaviour, memory‑ownership invariants, and performance relative to C/CUDA baselines.  
 
 ---
 
