@@ -1,5 +1,5 @@
-# 10.1 — Mojo Operator Alignment & Kernel Synthesis  
-A governed operator‑tier fine‑tuning pipeline aligning a coder model to **Mojo syntax**, **memory‑ownership semantics**, and **MLIR‑lowerable GPU/SIMD kernel patterns**, evaluated through a deterministic three‑stage compiler harness.
+# Mojo Operator Alignment & Kernel Synthesis  
+A governed operator‑tier fine‑tuning pipeline aligning a coder model to Mojo syntax, memory‑ownership semantics, and MLIR‑lowerable GPU/SIMD kernel patterns, evaluated through a deterministic three‑stage compiler harness.
 
 ---
 
