@@ -4,7 +4,7 @@
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-1013-D-read-000`  
+**Document Reference**: `2026-1007-D-read-000`  
 # Mojo Operator Alignment & Kernel Synthesis  
 ## A governed operator‑tier fine‑tuning pipeline aligning a coder model to Mojo syntax, memory‑ownership semantics, and MLIR‑lowerable GPU/SIMD kernel patterns, evaluated through a deterministic three‑stage compiler harness.  
 ### Project    
